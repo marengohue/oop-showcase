@@ -1,0 +1,8 @@
+{
+  "name": "oop-showcase",
+  "version": "1.0.0",
+  "description": "A small set of classes designed to demonstrate key principles of OOP",
+  "main": "index.js",
+  "author": "marengohue",
+  "license": "MIT"
+}
