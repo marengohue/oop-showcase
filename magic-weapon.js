@@ -1,7 +1,7 @@
 const ItemMeleeWeapon = require('./melee-weapon');
 
 class ItemMagicWeapon extends ItemMeleeWeapon {
-    
+
     constructor(name, mana) {
         super(name, 0, mana * 5, 100 + mana * 10);
         this.mana = mana;

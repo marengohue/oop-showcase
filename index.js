@@ -1,4 +1,3 @@
-
 const Potion = require('./potion');
 const ItemMagicWeapon = require('./magic-weapon');
 const ItemBag = require('./bag');

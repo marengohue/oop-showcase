@@ -1,7 +1,7 @@
 const Item = require('./item');
 
 class ItemBag extends Item {
-    
+
     constructor(name, mass, cost, capacity) {
         super(name);
         this.ownMass = mass;
